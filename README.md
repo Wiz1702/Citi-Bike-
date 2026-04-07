@@ -75,7 +75,7 @@ and bike type.
 ## Team
 
 Wisdom Akanwe - Kenyon College
-Danna Guerte - Princeton University
+Danna Duarte - Princeton University
 
 
 ## License
