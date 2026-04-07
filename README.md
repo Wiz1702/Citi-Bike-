@@ -30,8 +30,8 @@ The combined dataset contains approximately 4.3 million trip records across 12 c
 
 1. Clone the repository
 ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-   cd YOUR_REPO_NAME
+   git clone https://github.com/Wiz1702/Citi-Bike-.git
+   cd Citi-Bike-
 ```
 
 2. Create and activate a virtual environment
@@ -74,9 +74,9 @@ and bike type.
 
 ## Team
 
-- [Name]
-- [Name]
-- [Name]
+Wisdom Akanwe - Kenyon College
+Danna Guerte - Princeton University
+
 
 ## License
 
